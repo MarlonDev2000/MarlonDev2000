@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marlon Braga
+- 👀 I’m interested in Javascript, React, Node, React Native
+- 🌱 I’m currently learning React, Node
+- 📫 How to reach me - email: marloncs1307@gmail.com
